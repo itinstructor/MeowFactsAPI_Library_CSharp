@@ -16,7 +16,7 @@ How to use the MeowFactsAPILibrary.dll.
 
 1. Download the MeowFactsAPILibrary.dll file from this repository. Copy it to your Visual C# project.
 2. In your project that's using this code, reference the built DLL from the previous step:
-   - Project dropdown -> Add Reference -> Search for the created DLL file.
+   - Project dropdown -> Add Reference -> Search for the MeowFactsAPILibrary.dll file.
    
 ### Example Project
 This repository contains an example project.
@@ -26,7 +26,7 @@ This repository contains an example project.
 - Newtonsoft.Json - JSON parsing class
 
 ### Purpose
-I am an Information Technology Instructor at Western Nebraska Community College. I teach Information Technology Technical Support, CyberSecurity and Computer Science.
+I am an Information Technology Instructor at Western Nebraska Community College. I teach Information Technology, CyberSecurity and Computer Science.
 
 This library was created for a Visual C# introductory programming class as a tutorial. Students are given the opportunity to learn how to consume a public API without the underlying complexity of parsing json. It reinforces OOP concepts of objects and properties, while being a fun and interesting project.
 
