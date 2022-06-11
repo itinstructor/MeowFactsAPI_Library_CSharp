@@ -1,5 +1,5 @@
 # MeowFactsAPI Library CSharp
-A small Library (dll) to access the MeowFacts API
+A small C# Library (dll) to access the MeowFacts API.
 ### Overview
 - This library converts the MeowFactsAPI at https://meowfacts.herokuapp.com into JSON.
 - The library converts the incoming JSON to C# objects with properties for easy interaction in C# projects.
@@ -8,8 +8,7 @@ A small Library (dll) to access the MeowFacts API
 - Built in .NET Framework 4.8
 
 ### Returned Data
- 
-  * MeowFact - String[] (Ilist, which is accessed like an array)
+   * MeowFact - String[] (Ilist, which is accessed like an array)
 
 ### Installing
 How to use the MeowFactsAPILibrary.dll.
